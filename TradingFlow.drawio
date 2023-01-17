@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T16:38:32.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qCgoUdk_x8ViWjHWSaNU" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T16:42:20.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9hqs51_Cg0tsj776uihk" version="20.8.5" type="github">
   <diagram id="u3RrxMW4QclUXpzacZTX" name="Página-1">
     <mxGraphModel dx="1434" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -280,6 +280,9 @@
               <mxPoint x="253" y="538" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C-W8RCY7vKdW4XA8eo0--14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_call_split_48px-128.png;fontSize=16;direction=west;rotation=45;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="372" y="142" width="27" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
