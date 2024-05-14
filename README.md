@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @esdfirls
-- 👀 I’m interested in Dev, Data Science
-- 🌱 I’m currently learning Artificial Inteligence
-- 💞️ I’m looking to collaborate on Data Science, AI
+- 👋 Hi, I’m @esdfirls.
+- 👀 I’m interested in Machine Learning & Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Data Science, AI, ML.
 - 📫 How to reach me: a.hengstmann@outlook.com
 
 <!---
